@@ -1,0 +1,4 @@
+bettertab
+*.o
+*.dSYM
+.DS_Store
